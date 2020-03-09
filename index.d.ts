@@ -1,4 +1,4 @@
-declare module "react-native-image-crop-picker" {
+declare module "@ruguoapp/react-native-image-crop-picker" {
     export interface Options {
         cropping?: boolean;
         width?: number;
